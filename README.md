@@ -1,2 +1,2 @@
-# bio
-html page of my bio
+# Portfolio Documents
+See [here](https://syverts1.github.io/bio/) for the Portfolio.
